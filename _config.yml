@@ -1,0 +1,28 @@
+name: Max Martinez
+favicon: null
+layout_spectrum: 0.9997180916834623
+typography_spectrum: 0.9648252238985151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3109321636147797
+  lightness: 0.8626685661729425
+  saturation: 0.39319655927829444
+  rhythmicContrast: 0.9735608643386513
+purpose: []
