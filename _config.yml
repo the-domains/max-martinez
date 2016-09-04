@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Miami Legacy
+    id: 66a25083-e9f5-4cc1-843b-788d507a66f7
+    type: content
 favicon: null
 title: Max Martinez
 description: A creator with an athlete's heart.
