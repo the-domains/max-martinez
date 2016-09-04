@@ -1,8 +1,7 @@
 ---
-datePublished: '2016-09-01T12:05:21.445Z'
+datePublished: '2016-09-01T12:05:59.272Z'
 sourcePath: >-
   _posts/2016-09-01-miami-native-max-martinez-may-have-just-come-up-with-a-name.md
-isBasedOnUrl: 'http://en.as.com/en/2016/04/19/football/1461070658_946176.html'
 keywords:
   - miami
   - legacy
@@ -23,7 +22,7 @@ author:
     url: 'http://en.as.com/autor/arthur_guisasola_ortolano/a/'
     avatar: {}
 via: {}
-dateModified: '2016-09-01T12:05:21.168Z'
+dateModified: '2016-09-01T12:05:58.779Z'
 title: >-
   Miami native Max Martinez may have just come up with a name for David
   Beckham's new team | football | AS.com
@@ -39,10 +38,9 @@ description: >-
   to lend him and the city he grew up in a hand. Behind Miami Legacy is a well
   thought out project and several months of work to brand the future MLS club.
 inLanguage: en
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: miami-native-max-martinez-may-have-just-come-up-with-a-name/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
